@@ -1,686 +1,158 @@
-# Title:	Castilho's Personal URL Blacklist	
-# Description	Personal Blacklist	
-# Author:	Diego Castilho	
-# License:	GNU General Public License v3.0	
-# Home:		
+# Title: Castilho's Personal URL Blacklist
+# Description Personal Blacklist
+# Author: Diego Castilho
+# License: GNU General Public License v3.0
+# Home:
 # Updated: 02-Aug-21
-# LatestVersion	1.0.0	
-# Domain Count:	174	
-		
-015076eac79c69b636ca6a0e5233a2ff.safeframe.googlesyndication.com	-	Online Ads, Trackers & Analytics
-0753f2f556a049e0893f78fb16314867.fp.measure.office.com	-	Online Ads
-2bdff11c915e4564abff53e92e0b7103.fp.measure.office.com	-	Online Ads
-33d7c381cbe341bd86953d6af53d6e32.fp.measure.office.com	-	Online Ads
-41ecd718b2a048c2a7533069648af627.fp.measure.office.com	-	Online Ads
-4421.api.swrve.com	-	Online Ads
-4421.content.swrve.com	-	Online Ads
-58f5bc17717348f6801121b52bee76d8.fp.measure.office.com	-	Online Ads
-6227ebbb73444567a4ad7c489dc2c40c.fp.measure.office.com	-	Online Ads
-647ab133ee78426391ae0d2b952d1402.fp.measure.office.com	-	Online Ads
-802846b4879f49acbe0e80034576e99d.fp.measure.office.com	-	Online Ads
-8afbb0dff9d04846880055b8a1e4a007.fp.measure.office.com	-	Online Ads
-8fdba18449c540abbffd34bf6eba66a3.fp.measure.office.com	-	Online Ads
-9e1a17d7c0a44074a0ed43f10549a747.fp.measure.office.com	-	Online Ads
-a62ba464f76641d48cfcd067db5f56b4.fp.measure.office.com	-	Online Ads
-aax-us-east.amazon-adsystem.com	-	Online Ads
-aax.amazon-adsystem.com	-	Online Ads
-addthiscdn.com	-	Online Ads
-adjust.com	-	Trackers & Analytics
-admarvel.com	-	Online Ads
-adnxs.com	-	Online Ads
-adobedtm.com	-	Trackers & Analytics
-adobeinternalmobiles.tt.omtrdc.net	-	Online Ads
-adobemobiledev-mkt-prod1-lb.campaign.adobe.com	-	Online Ads
-ads.api.vungle.com	-	Online Ads
-ads.mopub.com	-	Online Ads
-ads.nexage.com	-	Online Ads
-ads.rubiconproject.com	-	Online Ads
-adsafeprotected.com	-	Trackers & Analytics
-adserver.snapads.com	-	Online Ads
-adservice.google.com	-	Online Ads
-adzerk.net	-	Online Ads
-affiliate-program.amazon.com	-	Online Ads
-amazon-adsystem.com	-	Online Ads, Trackers & Analytics
-amplitude.com	-	Trackers & Analytics
-analytics.localytics.com	-	Online Ads
-api-public.addthis.com	-	Online Ads
-api.amplitude.com	-	Trackers & Analytics
-api.appodealx.com	-	Online Ads
-api.mixpanel.com	-	Online Ads
-api.vungle.com	-	Online Ads
-api2.amplitude.com	-	Online Ads
-api2.branch.io	-	Online Ads
-app.adjust.com	-	Online Ads
-app.adjust.net.in	-	Online Ads
-app.adjust.world	-	Online Ads
-appodealx.com	-	Online Ads
-az15297.vo.msecnd.net	-	Online Ads, Chats & Messengers
-az725175.vo.msecnd.net	-	Online Ads, Chats & Messengers
-b.t.tailtarget.com	-	Online Ads
-b3f1d2fcbe1b4ba3bb00ace8b66e6ffd.fp.measure.office.com	-	Online Ads
-b8f6306b9d6e448b8a5f939ad9c15990.fp.measure.office.com	-	Online Ads
-base-cdn.admarvel.com	-	Online Ads
-beacon.krxd.net	-	Online Ads
-beemray.com	-	Computers & Internet, Online Ads
-Botnets, Virus Propagation	-	
-c.amazon-adsystem.com	-	Online Ads
-c.bing.com	-	Online Ads
-c.msn.com	-	Online Ads
-c3f02955b78444d7becb11dca8b119d2.fp.measure.office.com	-	Online Ads
-ca.iadsdk.apple.com	-	Online Ads
-cache.addthiscdn.com	-	Online Ads
-cdn.amplitude.com	-	Online Ads
-cdn.krxd.net	-	Online Ads
-cdn.navdmp.com	-	Online Ads
-cdn.optimizely.com	-	Online Ads
-cdn.raygun.io	-	Online Ads
-cdn.treasuredata.com	-	Computers & Internet, Online Ads, Business
-cdn2.inner-active.mobi	-	Online Ads
-cdp.cloud.unity3d.com	-	Online Ads
-cedexis.com	-	Trackers & Analytics
-chartbeat.net	-	Trackers & Analytics
-click.virt.s11.exacttarget.com	-	Online Ads
-cm.g.doubleclick.net	-	Online Ads
-combine.urbanairship.com	-	Online Ads
-comodo.net	-	Online Ads
-config.inmobi.com	-	Online Ads
-config.uca.cloud.unity3d.com	-	Online Ads
-config.unityads.unity3d.com	-	Online Ads
-consent.truste.com	-	Online Ads
-crashlytics.com	-	Computers & Internet, Online Ads
-crashlyticsreports-pa.googleapis.com	-	Online Ads
-createsend.com	-	Online Ads
-criteo.net	-	Online Ads
-d1e88905490b4c81987f59a5f31de030.fp.measure.office.com	-	Online Ads
-d2388b9127f073c13d05c8de84a437d1.safeframe.googlesyndication.com	-	Online Ads, Trackers & Analytics
-d2581282273541c7976a95d0276d7eb2.fp.measure.office.com	-	Online Ads
-dayintegrationintern.tt.omtrdc.net	-	Online Ads
-device-api.urbanairship.com	-	Trackers & Analytics
-device-metrics-us-2.amazon.com	-	Online Ads
-device-metrics-us.amazon.com	-	Trackers & Analytics
-dpm.demdex.net	-	Online Ads
-e.imguol.com	-	Online Ads
-e1d42e934e99482b8947225e17702b08.fp.measure.office.com	-	Online Ads
-e231f04d6f1641b280a637961e8eefba.fp.measure.office.com	-	Online Ads
-ee9baec4acc2473e86513ff886f9a6aa.fp.measure.office.com	-	Online Ads
-engine.adzerk.net	-	Online Ads
-entitlements.jwplayer.com	-	Online Ads
-events.mapbox.com	-	Online Ads
-experience.tinypass.com	-	Online Ads
-f8c355a788224c09a76792dabf0eafa0.fp.measure.office.com	-	Online Ads
-firebase-settings.crashlytics.com	-	Online Ads
-gcdsdk.appsflyer.com	-	Online Ads
-geo2.adobe.com	-	Online Ads
-google-analytics.com	-	Trackers & Analytics
-googleads.g.doubleclick.net	-	Online Ads
-googleadservices.com	-	Online Ads
-googlesyndication.com	-	Online Ads, Trackers & Analytics
-googletagmanager.com	-	Trackers & Analytics
-googletagservices.com	-	Trackers & Analytics
-hbomax.onelink.me	-	Online Ads
-hbonow.onelink.me	-	Online Ads
-hello.myfonts.net	-	Online Ads
-hotjar.com	-	Online Ads
-hs-analytics.net	-	Online Ads
-hs-banner.com	-	Online Ads
-hsadspixel.net	-	Online Ads
-hyprmx.com	-	Online Ads
-i.stack.imgur.com	-	Botnets, Virus Propagation
-i1.wp.com	-	Pornography & Sexuality, Child Sexual Abuse (IWF)
-iadsdk.apple.com	-	Online Ads
-ib.adnxs.com	-	Trackers & Analytics
-images.paypal.com	-	Online Ads
-imasdk.googleapis.com	-	Online Ads
-indexww.com	-	Online Ads
-init.supersonicads.com	-	Online Ads
-inmobi.com	-	Online Ads
-inner-active.mobi	-	Online Ads
-insights-collector.newrelic.com	-	Online Ads
-js-agent.newrelic.com	-	Online Ads
-js-sec.indexww.com	-	Online Ads
-js.hs-analytics.net	-	Online Ads
-js.hs-banner.com	-	Online Ads
-js.hsadspixel.net	-	Online Ads
-js.maxmind.com	-	Trackers & Analytics
-jwpltx.com	-	Online Ads
-krxd.net	-	Trackers & Analytics
-launches.appsflyer.com	-	Online Ads
-lfeeder.com	-	Online Ads
-localytics.com	-	Trackers & Analytics
-log.outbrainimg.com	-	Online Ads
-logx.optimizely.com	-	Online Ads
-m.addthis.com	-	Online Ads
-m.addthisedge.com	-	Online Ads
-m.t.tailtarget.com	-	Online Ads
-mab.chartbeat.com	-	Online Ads
-mads.amazon-adsystem.com	-	Online Ads
-manifest.localytics.com	-	Online Ads
-marketplace-ios-b189.hyprmx.com	-	Online Ads
-metrics.icloud.com	-	Online Ads
-mixpanel.com	-	Computers & Internet, Trackers & Analytics
-mopub.com	-	Online Ads
-navdmp.com	-	Online Ads
-nexage.com	-	Online Ads
-nintendoofamerica.tt.omtrdc.net	-	Online Ads
-nova-collector-1192479543.us-east-1.elb.amazonaws.com	-	Online Ads
-o.ss2.us	-	Online Ads
-omtrdc.net	-	Online Ads, Trackers & Analytics
-onelink.me	-	Online Ads
-trafficfactory.biz	-	Online Ads
-treasuredata.com	-	Computers & Internet, Online Ads, Business
-try.abtasty.com	-	Online Ads
-tt-10162-1.seg.t.tailtarget.com	-	Online Ads
-tt-12289-0.seg.t.tailtarget.com	-	Online Ads
-tt-12842-2.seg.t.tailtarget.com	-	Online Ads
-urbanairship.com	-	Trackers & Analytics
-v8-emea.sdk.beemray.com	-	Computers & Internet, Online Ads
-vungle.com	-	Online Ads
-wv.inner-active.mobi	-	Online Ads
-www.google-analytics.com	-	Trackers & Analytics
-www.googleadservices.com	-	Online Ads
-www.googletagmanager.com	-	Trackers & Analytics
-www.googletagservices.com	-	Trackers & Analytics
-zn5aocakgjj2uagxj-nintendoofamerica.siteintercept.qualtrics.com	-	Online Ads
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+# LatestVersion 1.0.1
+# Domain Count: 158
+
+safeframe.googlesyndication.com - Online Ads, Trackers & Analytics
+fp.measure.office.com - Online Ads
+.api.swrve.com - Online Ads
+amazon-adsystem.com - Online Ads
+addthiscdn.com - Online Ads
+adjust.com - Trackers & Analytics
+admarvel.com - Online Ads
+adnxs.com - Online Ads
+adobedtm.com - Trackers & Analytics
+adobeinternalmobiles.tt.omtrdc.net - Online Ads
+adobemobiledev-mkt-prod1-lb.campaign.adobe.com - Online Ads
+ads.api.vungle.com - Online Ads
+ads.mopub.com - Online Ads
+ads.nexage.com - Online Ads
+ads.rubiconproject.com - Online Ads
+adsafeprotected.com - Trackers & Analytics
+adserver.snapads.com - Online Ads
+adservice.google.com - Online Ads
+adzerk.net - Online Ads
+affiliate-program.amazon.com - Online Ads
+amazon-adsystem.com - Online Ads, Trackers & Analytics
+amplitude.com - Trackers & Analytics
+analytics.localytics.com - Online Ads
+api-public.addthis.com - Online Ads
+api.amplitude.com - Trackers & Analytics
+api.appodealx.com - Online Ads
+api.mixpanel.com - Online Ads
+api.vungle.com - Online Ads
+api2.amplitude.com - Online Ads
+api2.branch.io - Online Ads
+app.adjust.com - Online Ads
+app.adjust.net.in - Online Ads
+app.adjust.world - Online Ads
+appodealx.com - Online Ads
+vo.msecnd.net - Online Ads, Chats & Messengers
+b.t.tailtarget.com - Online Ads
+base-cdn.admarvel.com - Online Ads
+beacon.krxd.net - Online Ads
+beemray.com - Computers & Internet, Online Ads
+c.amazon-adsystem.com - Online Ads
+c.bing.com - Online Ads
+c.msn.com - Online Ads
+ca.iadsdk.apple.com - Online Ads
+cache.addthiscdn.com - Online Ads
+cdn.amplitude.com - Online Ads
+cdn.krxd.net - Online Ads
+cdn.navdmp.com - Online Ads
+cdn.optimizely.com - Online Ads
+cdn.raygun.io - Online Ads
+cdn.treasuredata.com - Computers & Internet, Online Ads, Business
+cdn2.inner-active.mobi - Online Ads
+cdp.cloud.unity3d.com - Online Ads
+cedexis.com - Trackers & Analytics
+chartbeat.net - Trackers & Analytics
+click.virt.s11.exacttarget.com - Online Ads
+cm.g.doubleclick.net - Online Ads
+combine.urbanairship.com - Online Ads
+comodo.net - Online Ads
+config.inmobi.com - Online Ads
+config.uca.cloud.unity3d.com - Online Ads
+config.unityads.unity3d.com - Online Ads
+consent.truste.com - Online Ads
+crashlytics.com - Computers & Internet, Online Ads
+crashlyticsreports-pa.googleapis.com - Online Ads
+createsend.com - Online Ads
+criteo.net - Online Ads
+dayintegrationintern.tt.omtrdc.net - Online Ads
+device-api.urbanairship.com - Trackers & Analytics
+device-metrics-us-2.amazon.com - Online Ads
+device-metrics-us.amazon.com - Trackers & Analytics
+dpm.demdex.net - Online Ads
+e.imguol.com - Online Ads
+engine.adzerk.net - Online Ads
+entitlements.jwplayer.com - Online Ads
+events.mapbox.com - Online Ads
+experience.tinypass.com - Online Ads
+firebase-settings.crashlytics.com - Online Ads
+gcdsdk.appsflyer.com - Online Ads
+geo2.adobe.com - Online Ads
+google-analytics.com - Trackers & Analytics
+googleads.g.doubleclick.net - Online Ads
+googleadservices.com - Online Ads
+googlesyndication.com - Online Ads, Trackers & Analytics
+googletagmanager.com - Trackers & Analytics
+googletagservices.com - Trackers & Analytics
+hbomax.onelink.me - Online Ads
+hbonow.onelink.me - Online Ads
+hello.myfonts.net - Online Ads
+hotjar.com - Online Ads
+hs-analytics.net - Online Ads
+hs-banner.com - Online Ads
+hsadspixel.net - Online Ads
+hyprmx.com - Online Ads
+i.stack.imgur.com - Botnets, Virus Propagation
+i1.wp.com - Pornography & Sexuality, Child Sexual Abuse (IWF)
+iadsdk.apple.com - Online Ads
+ib.adnxs.com - Trackers & Analytics
+images.paypal.com - Online Ads
+imasdk.googleapis.com - Online Ads
+indexww.com - Online Ads
+init.supersonicads.com - Online Ads
+inmobi.com - Online Ads
+inner-active.mobi - Online Ads
+insights-collector.newrelic.com - Online Ads
+js-agent.newrelic.com - Online Ads
+js-sec.indexww.com - Online Ads
+js.hs-analytics.net - Online Ads
+js.hs-banner.com - Online Ads
+js.hsadspixel.net - Online Ads
+js.maxmind.com - Trackers & Analytics
+jwpltx.com - Online Ads
+krxd.net - Trackers & Analytics
+launches.appsflyer.com - Online Ads
+lfeeder.com - Online Ads
+localytics.com - Trackers & Analytics
+log.outbrainimg.com - Online Ads
+logx.optimizely.com - Online Ads
+m.addthis.com - Online Ads
+m.addthisedge.com - Online Ads
+m.t.tailtarget.com - Online Ads
+mab.chartbeat.com - Online Ads
+mads.amazon-adsystem.com - Online Ads
+manifest.localytics.com - Online Ads
+marketplace-ios-b189.hyprmx.com - Online Ads
+metrics.icloud.com - Online Ads
+mixpanel.com - Computers & Internet, Trackers & Analytics
+mopub.com - Online Ads
+navdmp.com - Online Ads
+nexage.com - Online Ads
+nintendoofamerica.tt.omtrdc.net - Online Ads
+nova-collector-1192479543.us-east-1.elb.amazonaws.com - Online Ads
+o.ss2.us - Online Ads
+omtrdc.net - Online Ads, Trackers & Analytics
+onelink.me - Online Ads
+trafficfactory.biz - Online Ads
+treasuredata.com - Computers & Internet, Online Ads, Business
+try.abtasty.com - Online Ads
+tt-10162-1.seg.t.tailtarget.com - Online Ads
+tt-12289-0.seg.t.tailtarget.com - Online Ads
+tt-12842-2.seg.t.tailtarget.com - Online Ads
+urbanairship.com - Trackers & Analytics
+v8-emea.sdk.beemray.com - Computers & Internet, Online Ads
+vungle.com - Online Ads
+wv.inner-active.mobi - Online Ads
+www.google-analytics.com - Trackers & Analytics
+www.googleadservices.com - Online Ads
+www.googletagmanager.com - Trackers & Analytics
+www.googletagservices.com - Trackers & Analytics
+nintendoofamerica.siteintercept.qualtrics.com - Online Ads
