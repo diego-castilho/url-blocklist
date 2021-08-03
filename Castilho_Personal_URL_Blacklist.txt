@@ -4,46 +4,86 @@
 # License: GNU General Public License v3.0
 # Home:
 # Updated: 03-Aug-21
-# LatestVersion 1.0.3
-# Domain Count: 41
+# LatestVersion 1.0.4
+# Domain Count: 81
 
+metrics.icloud.com
 imasdk.googleapis.com
 insights-collector.newrelic.com
-metrics.icloud.com
 tt-10162-1.seg.t.tailtarget.com
+amazon-adsystem.com
 googleads.g.doubleclick.net
+aax-us-east.amazon-adsystem.com
+aax.amazon-adsystem.com
+cdp.cloud.unity3d.com
+ads.mopub.com
+ethn.io
+config.unityads.unity3d.com
 partnerad.l.doubleclick.net
+www.google-analytics.com
+app.adjust.net.in
+ads.api.vungle.com
 experience.tinypass.com
+api-us.appodealx.com
 sdk.iad-01.braze.com
 static.chartbeat.com
+api.appodealx.com
+app.adjust.world
+app.adjust.com
+appodealx.com
+adobedtm.com
 pagead2.googlesyndication.com
 tracker.bt.uol.com.br
 api-v3.tinypass.com
+inner-active.mobi
+vungle.com
+pubnative.info
+mopub.com
+sdk-events.inner-active.mobi
+outcome-ssp.supersonicads.com
+marketplace-ios-b189.hyprmx.com
 prebid-a.rubiconproject.net.akadns.net
 ade.googlesyndication.com
 8de1edff20dd18feecb73f0afe67c00e.safeframe.googlesyndication.com
+config.uca.cloud.unity3d.com
 tagged-by.rubiconproject.net.akadns.net
+pad-v3.presage.io
 scorecardresearch.com
-www.google-analytics.com
+radar.cedexis.com
+service.cmp.oath.com
+c.amazon-adsystem.com
+init.supersonicads.com
+google-analytics.com
 ib.anycast.adnxs.com
 4421.api.swrve.com
 static.criteo.net
 prg.smartadserver.com
+cdn2.inner-active.mobi
 sb.scorecardresearch.com
+supersonicads.com
 b.t.tailtarget.com
 ping.chartbeat.net
 csi.gstatic.com
-i1.wp.com
-adobedtm.com
+adjust.com
 beacon.krxd.net
-b02528fdec934de4b0339cd1df06ebec.fp.measure.office.com
+i1.wp.com
+s2s.singular.net
+ads.nexage.com
 bd26086103a949f0976ab363475da0b9.fp.measure.office.com
 bidder.va1.vip.prod.criteo.com
 tt-12842-2.seg.t.tailtarget.com
+b02528fdec934de4b0339cd1df06ebec.fp.measure.office.com
+1813863c9b1844afaaae1fc167785253.fp.measure.office.com
 m.t.tailtarget.com
-google-analytics.com
 smartadserver.com
+wv.inner-active.mobi
+singular.net
 criteo.net
+presage.io
+nexage.com
+cedexis.com
+hyprmx.com
+api.vungle.com
 cdn.navdmp.com
 adnxs.com
 chartbeat.net
