@@ -9,7 +9,7 @@
 
 safeframe.googlesyndication.com
 fp.measure.office.com
-.api.swrve.com
+api.swrve.com
 amazon-adsystem.com
 addthiscdn.com
 adjust.com
