@@ -4,7 +4,7 @@
 # License: GNU General Public License v3.0
 # Home:
 # Updated: 03-Aug-21
-# LatestVersion 1.0.4
+# LatestVersion 1.0.5
 # Domain Count: 81
 
 metrics.icloud.com
