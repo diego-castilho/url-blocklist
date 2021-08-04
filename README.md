@@ -1,9 +1,9 @@
-# url-blacklist
+# url-blocklist
 
-Castilho's Personal URL Blacklist
+**Castilho's Personal URL Blocklist**
 
 ---
 
-Since I use [SafeDNS](https://www.safedns.com) and [Pi-hole](https://pi-hole.net), my intention here is monitor new blocks on SafeDNS and copy this domains to update my personal block list on Pi-hole. With this I'll reduce unnecessary DNS traffic in my link, blocking domains locally on Pi-hole, instead of SafeDNS.
+Since I use [**SafeDNS**](https://www.safedns.com) and [**Pi-hole**](https://pi-hole.net) in my Home Network, my intention here is to monitor new DNS blocks on SafeDNS and copy these domains to my block list here and update that on Pi-hole. With this, I'll reduce unnecessary DNS traffic in my ISB Broadband, blocking DNS requests locally on Pi-hole instead of SafeDNS.
 
-Throughout the time SafeDNS will act only as a base to discover new Trackers, Ads, and other malicious URLs.
+SafeDNS will act only as a base to discover new Trackers, Ads, and other malicious URLs throughout the time.
