@@ -4,8 +4,8 @@
 # License: GNU General Public License v3.0
 # Home:
 # Updated: 09-Aug-21
-# LatestVersion 1.0.11
-# Domain Count: 269
+# LatestVersion 1.0.12
+# Domain Count: 285
 
 crashlyticsreports-pa.googleapis.com
 metrics.icloud.com
@@ -23,6 +23,7 @@ app.adjust.com
 google-analytics.com
 googleads.g.doubleclick.net
 telemetry.api.swiftkey.com
+md0ig7ssl8unl2kpl0h6p0drn.litix.io
 crashlytics.com
 amazon-adsystem.com
 adjust.com
@@ -30,6 +31,7 @@ sb.scorecardresearch.com
 ssl.google-analytics.com
 aax.amazon-adsystem.com
 api2.branch.io
+litix.io
 aax-us-east.amazon-adsystem.com
 imasdk.googleapis.com
 mads.amazon-adsystem.com
@@ -140,6 +142,10 @@ buy.tinypass.com
 criteo.net
 mixpanel.com
 chartbeat.net
+884eb662ef36450394b3e9bee17cffbb.fp.measure.office.com
+d95e3e73e14c4930aab017aa9e30f576.fp.measure.office.com
+17daa960f2f14fb2a24404a3491262da.fp.measure.office.com
+aeaa336b08654e4ead5a44b4f7982561.fp.measure.office.com
 tt-12842-2.seg.t.tailtarget.com
 b7a35ff3344345f4b230672abc7183e4.fp.measure.office.com
 click.virt.s11.exacttarget.com
@@ -221,15 +227,19 @@ api.b2c.com
 stats.wp.com
 s.ntv.io
 06f11ff789bf4d9aabf2d1a78f67adbc.fp.measure.office.com
+e44cd47114f84136bbdd63e22a6fd446.fp.measure.office.com
 4162112115984c04a395d0dae9c31dd8.fp.measure.office.com
 ae19feb499024ad7890c866c1b06b922.fp.measure.office.com
 698689e4a9d84671ad0f51ad77634175.fp.measure.office.com
+527c1622ac5344a5b0039e79a328e515.fp.measure.office.com
 59a9192020904d8d81d8c2a85c19a240.fp.measure.office.com
 46893884a05c4e80987dacb07928e478.fp.measure.office.com
 66931cc82a234e1d94c22795d225929f.fp.measure.office.com
 648a738f83794c1aaa2b41b4be1717b5.fp.measure.office.com
+4663ee2ead3f4770b7b13a8089ed6154.fp.measure.office.com
 9e2a712c2bb64e0cb4270d9afd86e2f5.fp.measure.office.com
 b75de8afd583447881b223e9f7749da1.fp.measure.office.com
+96783c4bf404435493427e5532ece34b.fp.measure.office.com
 fa1ea4ebf38044e6943423ecd5deba1f.fp.measure.office.com
 c11a64c5d3244f16a04a0306da70cb50.fp.measure.office.com
 f69e96fdbe784fac99da97b5c85e32b7.fp.measure.office.com
@@ -240,6 +250,7 @@ ccec69a27ac84d46bdb801527bd07bc0.fp.measure.office.com
 7d94f43707f846bfad431bd1506d55bf.fp.measure.office.com
 43a56141c2a0468b9c915c461c2c7c67.fp.measure.office.com
 6cff7d5bf9274a30820eb479298f9335.fp.measure.office.com
+3e063bf19f6b4f29a07f92f96931f7ae.fp.measure.office.com
 1fc6271a1dd047f78d735744652f10ae.fp.measure.office.com
 bd26086103a949f0976ab363475da0b9.fp.measure.office.com
 bidder.va1.vip.prod.criteo.com
@@ -247,11 +258,16 @@ bidder.va1.vip.prod.criteo.com
 b02528fdec934de4b0339cd1df06ebec.fp.measure.office.com
 c3da49825fd149cc80839cb0cad4436b.fp.measure.office.com
 829590462eff4ba0b31d3438387911df.fp.measure.office.com
+9825106978f54bb884c743da934e9dce.fp.measure.office.com
 1f27f3d8bfee4da69a9b840dff2907c7.fp.measure.office.com
+49c3d35bfa474016b24e4a87b160d1d8.fp.measure.office.com
 d4a8e778ea7f44778da569586094b001.fp.measure.office.com
+02c9eca1260f488db2298cd86c50bcfe.fp.measure.office.com
 07101dcd7b694063b763c4619aebd247.fp.measure.office.com
+944afa14dd1f4000b2b1bff66b5f122d.fp.measure.office.com
 44b8c4e5f0a448ee97eed288402ddf56.fp.measure.office.com
 1b3a1644577b42f6b21c9ab91c9b27f8.fp.measure.office.com
+48bf41a3bda74559950fa841552300c5.fp.measure.office.com
 b7dc84fefc2943189005d9b7370fe96e.fp.measure.office.com
 d23e246ac81248aa8e7a880e44936b59.fp.measure.office.com
 33e6fd2aed1c4d449d2b76c32c5c5fcf.fp.measure.office.com
