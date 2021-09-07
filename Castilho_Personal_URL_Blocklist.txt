@@ -2,10 +2,10 @@
 # Description Personal Blacklist
 # Author: Diego Castilho
 # License: GNU General Public License v3.0
-# Updated: 28-Aug-21
-# LatestVersion 1.0.15
-# Domain Count: 392
-# List: 01_27-Aug-21
+# Updated: 06-Sep-21
+# LatestVersion 1.0.16
+# Domain Count: 399
+# List: 01_31-Aug-21
 
 adobedtm.com
 crashlyticsreports-pa.googleapis.com
@@ -29,19 +29,20 @@ md0ig7ssl8unl2kpl0h6p0drn.litix.io
 crashlytics.com
 amazon-adsystem.com
 44ser87uhle6mo61s1qtpin7j.litix.io
+znemkp0ose9qrn7kf-elastic.siteintercept.qualtrics.com
 adjust.com
+responsys.net
 sb.scorecardresearch.com
 imasdk.googleapis.com
 insights-collector.newrelic.com
 securepubads.g.doubleclick.net
 ssl.google-analytics.com
-responsys.net
 aax.amazon-adsystem.com
 api2.branch.io
 tt-10162-1.seg.t.tailtarget.com
 aax-us-east.amazon-adsystem.com
-znemkp0ose9qrn7kf-elastic.siteintercept.qualtrics.com
 mads.amazon-adsystem.com
+wordpress.com
 ads.mopub.com
 ca.iadsdk.apple.com
 b.t.tailtarget.com
@@ -51,15 +52,14 @@ adservice.google.com
 appodealx.com
 tracker.bt.uol.com.br
 pagead2.googlesyndication.com
+googlesyndication.com
 static.chartbeat.com
 telemetry.sdk.inmobi.com
 launches.appsflyer.com
 cdp.cloud.unity3d.com
-s2s.singular.net
 cdn.krxd.net
-googlesyndication.com
+s2s.singular.net
 m.t.tailtarget.com
-wordpress.com
 adobemobiledev-mkt-prod1-lb.campaign.adobe.com
 scorecardresearch.com
 experience.tinypass.com
@@ -69,8 +69,8 @@ config.unityads.unity3d.com
 rpc-php.trafficfactory.biz
 radar.cedexis.com
 ads.api.vungle.com
-omtrdc.net
 ib.adnxs.com
+omtrdc.net
 885e2dd94adb263c2321d2d0f3778d18523bce4a.cws.conviva.com
 az779572.vo.msecnd.net
 inmobi.com
@@ -82,8 +82,8 @@ pagead46.l.doubleclick.net
 kinesis.us-east-1.amazonaws.com
 consent.truste.com
 ping.chartbeat.net
-mopub.com
 vungle.com
+mopub.com
 krxd.net
 outcome-ssp.supersonicads.com
 device-api.urbanairship.com
@@ -95,11 +95,11 @@ marketo.com
 t.tailtarget.com
 device-metrics-us-2.amazon.com
 inner-active.mobi
-pfzu.adj.st
 singular.net
-amplitude.com
 adnxs.com
 urbanairship.com
+pfzu.adj.st
+amplitude.com
 1-envato-market.ct.impactradius.com
 config.uca.cloud.unity3d.com
 mobilesdk-us.kampyle.com
@@ -111,9 +111,9 @@ www.iwanttodeliver.com
 static.criteo.net
 service.cmp.oath.com
 supersonicads.com
+img03.en25.com
 iadsdk.apple.com
 cl.s10.exct.net
-img03.en25.com
 www.googletagservices.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 trafficfactory.biz
@@ -137,14 +137,15 @@ rubiconproject.com
 cdn2.inner-active.mobi
 pad-v3.presage.io
 js-agent.newrelic.com
-ads.nexage.com
 etahub.com
-comodo.net
 s2s.adjust.com
 a.realsrv.com
+ht.redtube.com
+ads.nexage.com
+comodo.net
 leadlovers.com
 tag.navdmp.com
-ht.redtube.com
+emltrk.com
 ethn.io
 wpcom.files.wordpress.com
 microsoftmscompoc.tt.omtrdc.net
@@ -152,10 +153,9 @@ nflenterprises.tt.omtrdc.net
 googletagservices.com
 secure.eloqua.com
 s7.files.wordpress.com
-hotjar.com
 api.mixpanel.com
+hotjar.com
 js.hs-banner.com
-emltrk.com
 en25.com
 dc.services.visualstudio.com
 vfhbo3jsnvrutdkuee1akd0lj.litix.io
@@ -173,13 +173,13 @@ cloudflareinsights.com
 prg.smartadserver.com
 gcdsdk.appsflyer.com
 izotope.tt.omtrdc.net
-i1.wp.com
-evergage.com
 api.vungle.com
 buy.tinypass.com
-try.abtasty.com
 optimizely.com
 csi.gstatic.com
+i1.wp.com
+evergage.com
+try.abtasty.com
 criteo.net
 d.tailtarget.com
 beacon.krxd.net
@@ -189,6 +189,7 @@ exct.net
 d95e3e73e14c4930aab017aa9e30f576.fp.measure.office.com
 a7ee36e5607d4b6a876d8738f944de52.fp.measure.office.com
 abcca3d4f9da4c64900e7319dd8b260c.fp.measure.office.com
+7e89a5068cbc48709040a7ab6cd3552e.fp.measure.office.com
 salesforce.us-1.evergage.com
 f184f1585c2741e9b792bfa93a006db8.fp.measure.office.com
 b7a35ff3344345f4b230672abc7183e4.fp.measure.office.com
@@ -211,16 +212,16 @@ cdn.onesignal.com
 trafficjunky.com
 tsyndicate.com
 nexage.com
+btloader.com
+t.paypal.com
+hyprmx.com
 presage.io
 snap.licdn.com
 logfiles.zoom.us
 realsrv.com
-btloader.com
 navdmp.com
 imrworldwide.com
 sc.lfeeder.com
-t.paypal.com
-hyprmx.com
 prebid-us.creativecdn.com
 9ee80f21a19eceaa082d9f9764790050.safeframe.googlesyndication.com
 tempest.services.disqus.com
@@ -228,10 +229,12 @@ tagged-by.rubiconproject.net.akadns.net
 0c47a71f82ea81ace12a2153d408aae4.safeframe.googlesyndication.com
 211f62ce97dbf10a6c448ce65b37ec63.safeframe.googlesyndication.com
 glitter.services.disqus.com
+zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
 dnn506yrbagrg.cloudfront.net
 affiliate-program.amazon.com
 8de1edff20dd18feecb73f0afe67c00e.safeframe.googlesyndication.com
 zn01ar39hadu8thsc-rappi.siteintercept.qualtrics.com
+zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 certify-js.alexametrics.com
 23f72dd8695c277cdb736ef1915e6c14.safeframe.googlesyndication.com
 links.services.disqus.com
@@ -239,9 +242,11 @@ znezww4vvih1bygs9-mcafee.siteintercept.qualtrics.com
 prisacom.d3.sc.omtrdc.net
 dhg-logging.us-east-1.elasticbeanstalk.com
 bradesco.us-4.evergage.com
+zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 52581d022e7a35f6d4e38a18f81749ce.safeframe.googlesyndication.com
 ade.googlesyndication.com
 h-mercadolibre.online-metrix.net
+d1c6cca65d5ec644485757202718b038.safeframe.googlesyndication.com
 abf0cfe05cb64b15fa729e3975453cb4.safeframe.googlesyndication.com
 static.cloudflareinsights.com
 4b52469c61f643b165d68ca7eb8e00e0.safeframe.googlesyndication.com
@@ -256,6 +261,7 @@ ads.trafficjunky.net
 referrer.disqus.com
 eus.rubiconproject.com
 v8-emea.sdk.beemray.com
+t5ttifk1.emltrk.com
 pubads.g.doubleclick.net
 js.hsadspixel.net
 smartadserver.com
@@ -285,10 +291,13 @@ twitterinc.tt.omtrdc.net
 tumri.net
 dpm.demdex.net
 cdn.raygun.io
-p.typekit.net
 api.b2c.com
-s0.2mdn.net
 hs-banner.com
+onelink.me
+snapads.com
+geo2.adobe.com
+p.typekit.net
+s0.2mdn.net
 images.dmca.com
 secure.adnxs.com
 bat.bing.com
@@ -296,10 +305,7 @@ criteo.com
 exoclick.com
 x.disq.us
 hs-analytics.net
-onelink.me
 cdn.viglink.com
-snapads.com
-geo2.adobe.com
 stats.wp.com
 js.maxmind.com
 trafficjunky.net
@@ -338,6 +344,7 @@ d23e246ac81248aa8e7a880e44936b59.fp.measure.office.com
 371977c8af3e4bd1a91a2a6afe1f3177.fp.measure.office.com
 36e97e06d9d14a718e7a513efb1d282f.fp.measure.office.com
 06f11ff789bf4d9aabf2d1a78f67adbc.fp.measure.office.com
+b95be264a295469aa633dc009174510f.fp.measure.office.com
 e44cd47114f84136bbdd63e22a6fd446.fp.measure.office.com
 9d08f9532b044175bd333acd7b7c0c77.fp.measure.office.com
 ae19feb499024ad7890c866c1b06b922.fp.measure.office.com
@@ -380,6 +387,10 @@ hbonow.onelink.me
 www.wordpress.com
 hbomax.onelink.me
 adsafeprotected.com
+ats.tumri.net
+alexametrics.com
+gg.google.com
+beemray.com
 hsadspixel.net
 blogherads.com
 viglink.com
@@ -387,15 +398,11 @@ cdn.navdmp.com
 advertising.com
 quantserve.com
 civicscience.com
-ats.tumri.net
 raygun.io
 springserve.com
 lfeeder.com
-alexametrics.com
-gg.google.com
 creativecdn.com
-beemray.com
 rfihub.com
-b2c.com
 ntv.io
+b2c.com
 2mdn.net
