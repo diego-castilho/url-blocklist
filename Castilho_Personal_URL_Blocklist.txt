@@ -1,6 +1,7 @@
 # Title: Castilho's Personal URL Blacklist
 # Description Personal Blacklist
 # Author: Diego Castilho
+# Contact: 12588811+diego-castilho@users.noreply.github.com
 # License: GNU General Public License v3.0
 # Updated: 06-Sep-21
 # LatestVersion 1.0.16
